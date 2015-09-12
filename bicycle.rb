@@ -15,11 +15,6 @@ class Gear
     ratio * wheel.diameter
   end
 
-  Wheel = Struct.new(:rim, :tire) do
-    def diameter
-      rim + (tire * 2)
-    end
-  end
 end
 
 class Wheel

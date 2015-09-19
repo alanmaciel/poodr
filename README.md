@@ -3,4 +3,4 @@
 
 ### Notes
 
-Some notes about the poodr book's concepts.
+Some notes.
